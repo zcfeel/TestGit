@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class TestGit {
 	
-	public static void main(String[] args) throws ParseException {
+	public static void main1(String[] args) throws ParseException {
 		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
 		Date parse = dateFormat.parse("1990-02-03");
 		
@@ -27,9 +27,9 @@ public class TestGit {
 		System.out.println(string);*/
 	/*	int n = daysBetweenTwoDays("1990-02-03","1990-02-04");
 		System.out.println(n);*/
+	
+	
 	}
-	
-	
 	
 	
 	
