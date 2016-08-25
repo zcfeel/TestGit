@@ -27,7 +27,7 @@ public class TestGit {
 		System.out.println(string);*/
 	/*	int n = daysBetweenTwoDays("1990-02-03","1990-02-04");
 		System.out.println(n);*/
-	
+	myDate.funtion(myDate1);
 	
 	}
 	
